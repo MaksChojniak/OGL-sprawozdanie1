@@ -1,4 +1,5 @@
-pobierz plik main.cp lub skopiuj zawartość pliku 
+pobierz plik [main.cpp](./main.cpp) 
+lub skopiuj tekst poniżej:
 <pre>
 #include <GLFW/glfw3.h> 
 #include<iostream> 
